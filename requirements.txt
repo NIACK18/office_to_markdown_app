@@ -1,2 +1,2 @@
 streamlit>=1.44.0
-markitdown[docx,xlsx,pptx,pdf,html]>=0.1.0
+markitdown[all]
