@@ -40,19 +40,17 @@ streamlit run app.py
 4. Preview and download the converted Markdown content
 
 
-## Support 
-If you appreciate the project and wish to encourage its continued development, consider [supporting my work](https://pythonandvba.com/coffee-donation).
+## 🤝 Connect with Me
+- 📺 **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
+- 🌐 **Website:** [PythonAndVBA](https://pythonandvba.com)
+- 💬 **Discord:** [Join the Community](https://pythonandvba.com/discord)
+- 💼 **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
+- 📸 **Instagram:** [sven_bosau](https://www.instagram.com/sven_bosau/)
+
+## 💖 Support
+If my tutorials help you, please consider [buying me a coffee](https://pythonandvba.com/coffee-donation).  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
 
-## Feedback & Collaboration
-For feedback, suggestions, or potential collaboration opportunities, reach out at contact@pythonandvba.com.
+## 📬 Feedback & Collaboration
+If you have ideas, feedback, or want to collaborate, reach out at contact@pythonandvba.com.  
 ![Logo](https://www.pythonandvba.com/banner-img)
-
----
-
-Created with ❤️ by [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
-
-### Connect with me
-🌍 [Website](https://pythonandvba.com)  
-📺 [YouTube](https://youtube.com/@codingisfun)  
-💼 [LinkedIn](https://www.linkedin.com/in/sven-bosau/)
